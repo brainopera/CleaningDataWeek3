@@ -1,4 +1,4 @@
-CodeBook
+CodeBook for Tidy Data
 =============================
 
 Data source

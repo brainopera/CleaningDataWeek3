@@ -3,10 +3,10 @@ Week 3 Course Project
 =================
 
 <H2>Introduction</H2>
-This repository contains my work for the course project for the Coursera course "Getting and Cleaning data", as part of the Data Science specialization.
+As part of the Data Science specialization, this repository contains the course project for the Coursera course "Getting and Cleaning data".
 
 <H2>About the raw data</H2>
-The features (561 of them) are unlabeled and can be found in the x_test.txt. The activity labels are in the y_test.txt file. The test subjects are in the subject_test.txt file. The same holds for the training set.
+The 561 features are unlabeled and can be found in the x_test.txt. The activity labels are in the y_test.txt file. The test subjects are in the subject_test.txt file. Similar for the training set.
 
 <H2>About the script and the tidy dataset</H2>
 A script called run_analysis.R will merge the test and training sets together. Prerequisites for this script are as follows:
